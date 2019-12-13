@@ -25,7 +25,7 @@ Here are the highlights from 2011 league season:
 
 1. <b>Most goals scored</b>: Manchester United scored the most goals during the season with 93, followed closely by Manchester City with 83. The top scoring German team is Dortmund with 80 in the third place.
 2. <b>Most wins</b>: Top 3 teams that had the most wins are the same Top 3 that scored the most goals. The highest number of wins in Manchester United with 28 wins.
-3. <b>Impact of weather on wins</b>: Out of 10 wins by Hoffenheim, 3 were won when it rained, making it the best performing rate in our study at 30%.
+3. <b>Impact of weather on wins</b>: Out of 10 wins by Hoffenheim, 3 were won when it rained, which is the highest rate in our study at 30%.
   
 ### Conclusion
 
